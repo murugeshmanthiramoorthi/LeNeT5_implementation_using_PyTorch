@@ -8,4 +8,4 @@ Take a look at the preview of the dataset.
 
 # Predictions
 Now, look at the predictions of the model. The results are really great for a model architecture proposed in 1998. 
-![prediction](https://github.com/murugeshmanthiramoorthi/LeNeT5_implementation_using_PyTorch/blob/master/prediction.png)
+![prediction](https://github.com/murugeshmanthiramoorthi/LeNeT5_implementation_using_PyTorch/blob/master/predictions.png)
